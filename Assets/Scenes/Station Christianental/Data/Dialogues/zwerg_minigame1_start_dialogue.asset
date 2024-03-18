@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fdddff9cfcfffac4d8710b6c8a3a7eed, type: 3}
+  m_Name: zwerg_minigame1_start_dialogue
+  m_EditorClassIdentifier: 
+  character: {fileID: 11400000, guid: b3335922958f0e444b9e108fbcc24b86, type: 2}
+  TextMessages:
+  - Wer bist Du denn?
+  - Naja, auch egal...Ich habe Wichtigeres zu tun.
+  - Ob Du mir helfen kannst? Hmmpf...
+  - "Die Menschen leihen sich st\xE4ndig mein Besteck aus und bringen es nicht zur\xFCck."
+  - "Hilf' mir, die Sachen zur\xFCckzubringen."
+  SoundMessages: []
